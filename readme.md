@@ -97,10 +97,13 @@ origin    git@github.com:%ИМЯ_АККАУНТА%/%ИМЯ-ПРОЕКТА%.git (
 
 если увидите сообщение, показанное ниже, то все произошло удачно:
 
-```remote: Resolving deltas: 100% (1/1), done.
+```
+remote: Resolving deltas: 100% (1/1), done.
 To github.com:danism51/d1
  * [new branch]      master -> master
-branch 'master' set up to track 'origin/master' ```
+branch 'master' set up to track 'origin/master'
+
+ ```
 
 3. Последующие сообщения можно делать просто, используя команду:
 ```$ git push```
